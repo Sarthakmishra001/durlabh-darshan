@@ -135,7 +135,7 @@ export default function App() {
 
               <Text style={{
                 position: 'absolute',
-                bottom: 5,
+                bottom: 13,
                 left: 8,
                 color: 'white',
                 fontWeight: 'bold',
